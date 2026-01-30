@@ -1,4 +1,4 @@
-# AI-Driven Data Alaysis & Risk Strategy – Geldium
+# AI-Driven Data Analysis & Risk Strategy – Geldium
 
 This repository contains a complete analytics workflow for Geldium, covering data analysis, predictive modeling, business reporting, and AI-driven collections strategy design.
 
